@@ -1,6 +1,6 @@
 # 100DaysOfX
 
-This repo keep tracking for all my challenges related to "100DaysOfX"
+This repo keep tracking for all my challenges related to [100DaysOfX](https://www.100daysofx.com/)
 
 # Status
 | Actual: 2 | Round | Done: 0 | Round |
@@ -20,6 +20,5 @@ Most of the challenges fall under the category of 3 main rules:
 2.  Tweet your progress every day with the #100DaysOfX hashtag and the hashtag of your chosen challenge
 3.  Encourage/help at least 2 people in the challenge every day
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzUxNTY5ODMsLTE3MDQ3MzA2OTZdfQ
-==
+eyJoaXN0b3J5IjpbOTU1NjQ2NTg3LC0xNzA0NzMwNjk2XX0=
 -->
