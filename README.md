@@ -2,7 +2,7 @@
 
 This repo keep tracking for all my challenges related to [100DaysOfX](https://www.100daysofx.com/)
 
-I will post the updates of my challenges in my Twitter account [@ledisalv](https://twitter.com/ledisalv
+I will post the updates of my challenges in my Twitter account [@ledisalv](https://twitter.com/ledisalv)
 
 # Status
 | Actual: 2 | Round | Done: 0 | Round |
