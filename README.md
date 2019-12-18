@@ -3,9 +3,10 @@
 This repo keep tracking for all my challenges related to "100DaysOfX"
 
 # Status
-| Actual: 2  | Round | Done: 0 | Round |
-|:----------: | :--------:| |:--------:| |:--------:| 
-| 100DaysOfHealth| right-aligned |
+| Actual: 2 | Round | Done: 0 | Round |
+|:----------:|:--------:|:---------:|:--------:| 
+| 100DaysOfHealth| 1 |  |  |
+| 100DaysOfCode| 1 |  |  | 
 
 # The Way it Works
 It’s super simple – You choose what habit you want to work on, and commit to working on it in some way for the next 100 days, while holding yourself publicly accountable by tweeting daily updates using the hashtags.
@@ -19,6 +20,6 @@ Most of the challenges fall under the category of 3 main rules:
 2.  Tweet your progress every day with the #100DaysOfX hashtag and the hashtag of your chosen challenge
 3.  Encourage/help at least 2 people in the challenge every day
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjY3MjQwOTcsLTE3MDQ3MzA2OTZdfQ
+eyJoaXN0b3J5IjpbLTExNzUxNTY5ODMsLTE3MDQ3MzA2OTZdfQ
 ==
 -->
