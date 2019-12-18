@@ -4,6 +4,9 @@ This repo keep tracking for all my challenges related to [100DaysOfX](https://ww
 
 I will post the updates of my challenges in my Twitter account ![Alt](/ledisalvo/100DaysOfX/blob/master/icons/twitter_logo.png?raw=true) [@ledisalv](https://twitter.com/ledisalv)
 
+
+![enter image description here](https://github.com/ledisalvo/100DaysOfX/blob/master/icons/twitter_logo.png)
+
 # Status
 | Actual: 2 | Round | Done: 0 | Round |
 |:----------:|:--------:|:---------:|:--------:| 
@@ -22,5 +25,5 @@ Most of the challenges fall under the category of 3 main rules:
 2.  Tweet your progress every day with the #100DaysOfX hashtag and the hashtag of your chosen challenge
 3.  Encourage/help at least 2 people in the challenge every day
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODE1MzUwMl19
+eyJoaXN0b3J5IjpbLTE3ODk4MzA4NzksMTc4ODE1MzUwMl19
 -->
