@@ -9,7 +9,7 @@ For the next 100 Days:
 
 1. I will keep a daily log and on Sundays I will check rule by rule for review.  :pencil2:
 
-2. I will tweet an update daily with the hashtags: #100DaysOfHealth #100DaysOfX and a day on which I am on, and with my thoughts/feelings on that day  :bird:
+2. Sleep at least 7.5 hours  :zzz:
 
 3. I will encourage at least 2 other people in the challenge daily  :smile:
 
