@@ -7,8 +7,8 @@ I will post the updates of my challenges in my Twitter account [@ledisalv](https
 # Status 
 | Actual: 2 | Round | Done: 0 | Round |
 |:----------:|:--------:|:---------:|:--------:| 
-| [100DaysOfHealth](https://github.com/ledisalvo/100DaysOfX/blob/master/100DaysOfHealth/R1.md)| 1 |  |  |
-| 100DaysOfCode| 1 |  |  | [@ledisalv](https://twitter.com/ledisalv
+| [100DaysOfHealth](https://github.com/ledisalvo/100DaysOfX/blob/master/100DaysOfHealth/Rules.md)| 1 |  |  |
+| [100DaysOfCode](https://github.com/ledisalvo/100-days-of-code)| 1 |  |  | 
 
 # The Way it Works
 It’s super simple – You choose what habit you want to work on, and commit to working on it in some way for the next 100 days, while holding yourself publicly accountable by tweeting daily updates using the hashtags.
