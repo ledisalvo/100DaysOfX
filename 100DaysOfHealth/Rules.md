@@ -2,7 +2,9 @@
 
 The goal of this challenge is to feel good, to enjoy life and be active - not to lose a certain amount of weight, a certain number of kilos. That’s why it’s called #100DaysOfHealth, not of #100DaysOfDiet (which I do not support) or something similar.
 
- > For more info visit the [oficial page](https://www.100daysofx.com/where-x-is/health/)
+ >  - Check my [log](https://github.com/ledisalvo/100DaysOfX/blob/master/100DaysOfHealth/Log.md)
+ >  - For more info visit the [oficial page](https://www.100daysofx.com/where-x-is/health/)
+ 
 
 # Rules
 For the next 100 Days:
