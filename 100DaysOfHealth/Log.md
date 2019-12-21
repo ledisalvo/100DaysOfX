@@ -1,5 +1,21 @@
 # #100DaysOfHealt - Log :pencil:
 
+### Day 3: December 20, 2019
+
+> - Last night I slept 6:30 hs (1 am - 7:30 am)
+> - Weakness: 
+>   - Smoked 1 cigarette in the night :(
+>   - Don't update this log and don't post any twitter :(
+>   - Don't had time to sat in the computer to do this    
+
+| Rule | Status | Rule | Status |
+|:----------|:--------:|:---------|:--------:| 
+| Update Daily Log |  :red_circle: | NOT eat junk food | :white_check_mark: |
+| Sleep 7.5 hs |  :red_circle: | NOT weight myself | :white_check_mark: | 
+| Encourage 2 people | :red_circle: | NOT drink sugary drinks | :white_check_mark: | 
+| Work out  |  :red_circle: | NOT smoking | :red_circle: |
+| Buy/Cook healthy food  | :red_circle: | NOT drink alcoholic drinks | :white_check_mark: | 
+
 ### Day 2: December 19, 2019
 
 > - Encouraged people: @flojoe90 and @aliasimkazmi
