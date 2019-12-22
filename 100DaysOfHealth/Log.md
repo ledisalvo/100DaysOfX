@@ -1,5 +1,21 @@
 # #100DaysOfHealt - Log :pencil:
 
+
+### Day 4: December 21, 2019
+
+> - Last night I slept 8 hs (00:30 am - 8:30 am)
+> - Weakness: 
+>   - Smoked 3 cigarettes during the day :(    
+> - Im thinking in change the rule "encourage 2 people" to another objective, because doesn't exist enough people who use these hashtag.
+
+| Rule | Status | Rule | Status |
+|:----------|:--------:|:---------|:--------:| 
+| Update Daily Log | :white_check_mark: | NOT eat junk food | :white_check_mark: |
+| Sleep 7.5 hs | :white_check_mark: | NOT weight myself | :white_check_mark: | 
+| Encourage 2 people | :red_circle: | NOT drink sugary drinks | :red_circle: | 
+| Work out  |  :red_circle: | NOT smoking | :red_circle: |
+| Buy/Cook healthy food  | :white_check_mark: | NOT drink alcoholic drinks | :white_check_mark: | 
+
 ### Day 3: December 20, 2019
 
 > - Last night I slept 6:30 hs (1 am - 7:30 am)
