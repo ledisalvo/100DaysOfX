@@ -1,6 +1,28 @@
 # #100DaysOfHealt - Log :pencil:
 
 
+### Day 5: December 22, 2019
+
+> - Last night I slept 6 hs (3:00 am - 9 am)
+> - Strengths:
+>   - Buy/Cook healthy food
+>     - Lunch: Homemade hamburger
+>     - Dinner: Rice and 1 egg
+>   - 5 days in a row that I don't drink alcohol
+> - Weakness: 
+>   - NOT smoke: I smoked 3 cigarettes during the day :(
+>   - NOT drink sugary drinks: I drunk Coca Cola
+>   - NOT eat junk food: I ate "pan dulce"
+>   - Work out: 3 days in a row that I didn't work out
+
+| Rule | Status | Rule | Status |
+|:----------|:--------:|:---------|:--------:| 
+| Update Daily Log | :white_check_mark: | NOT eat junk food | :red_circle: |
+| Sleep 7.5 hs | :red_circle: | NOT weight myself | :white_check_mark: | 
+| Encourage 2 people | N/A | NOT drink sugary drinks | :red_circle: | 
+| Work out  |  :red_circle: | NOT smoke | :red_circle: |
+| Buy/Cook healthy food  | :white_check_mark: | NOT drink alcoholic drinks | :white_check_mark: | 
+
 ### Day 4: December 21, 2019
 
 > - Last night I slept 8 hs (00:30 am - 8:30 am)

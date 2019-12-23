@@ -9,23 +9,23 @@ The goal of this challenge is to feel good, to enjoy life and be active - not to
 # Rules
 For the next 100 Days:
 
-1. I will keep a daily log and on Sundays I will check rule by rule for review.  :pencil2:
+1. I will keep a daily log and I will post in Twitter the summary of the day, every day  :pencil2:
 
-2. Sleep at least 7.5 hours  :zzz:
+2. Sleep at least 6 hours  :zzz:
 
-3. I will encourage at least 2 other people in the challenge daily  :smile:
+3. Meditate at least 15 minutes for a day  :om:
 
-4. I will work out at least 3 times a week  :muscle:
+4. I will work out 6 times a week. Monday to Saturday. Sunday will be for rest  :muscle:
 
-5. I will make an effort to buy healthy food  :apple: (groceries) and to cook at home as much as I can. :fork_and_knife:
+5. I will make an effort to cook at home as much as I can :fork_and_knife:. If not, I will buy healthy food  :apple:
 
-6. I will NOT eat any junk food :fries: (e.g. chips, ice-cream, instant noodles, candies, etc.)
+6. I will NOT eat any junk food :fries: (e.g. chips, ice-cream, cookies, candies, any food with sugar, etc.)
 
 7. I will NOT weigh myself during the challenge.
 
 8. I will NOT drink sugary drinks  :candy: as they are often a hidden source of an enormous amount of sugar we get daily – which means: soda (pop), juices, sweet coffee/tea drinks.
 
-9. I will no smoking :smoking:
+9. I will NOT smoke :smoking:
 
 10. I will NOT drink alcoholic drinks, but if I want it I could drink a maximum of: 1 cup of wine :wine_glass: or 500 ml of beer  :beer: per week.
     
