@@ -1,6 +1,25 @@
 # #100DaysOfHealt - Log :pencil:
 
 
+### Day 6: January 05, 2020
+
+> - Last night I slept more than 6 hs (2:00 am - 10:30 am)
+> - Strengths:
+>   - Work out: Back to the exercises :muscle:
+>   - 1 days in a row that I don't drink alcohol
+> - Weakness: 
+>   - NOT smoke: I smoked 3 cigarettes during the day :(
+>   - NOT drink sugary drinks: I drunk Coca Cola
+
+
+| Rule | Status | Rule | Status |
+|:----------|:--------:|:---------|:--------:| 
+| Update Log & Twitter | :white_check_mark: | NOT eat junk food | :white_check_mark: |
+| Sleep 6 hs | :white_check_mark: | NOT weight myself | :white_check_mark: | 
+| Meditate 15 min | :white_check_mark: | NOT drink sugary drinks | :red_circle: | 
+| Work out  |  :white_check_mark: | NOT smoke | :red_circle: |
+| Buy/Cook healthy food  | :white_check_mark: | NOT drink alcoholic drinks | :white_check_mark: | 
+
 ### Day 5: December 22, 2019
 
 > - Last night I slept 6 hs (3:00 am - 9 am)
