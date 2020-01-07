@@ -1,5 +1,24 @@
 # #100DaysOfHealt - Log :pencil:
 
+### Day 7: January 06, 2020
+
+> - Last night I slept 6 hs (02:00 am - 08:00 am)
+> - Strengths:
+>   - Work out: Calistenia day 2 :muscle:
+>   - 2 days in a row that I don't drink alcohol
+>   - 1 days in a row that I don't smoke
+>   - 1 days in a row that I don't drink sugary drinks
+> - Weakness: 
+>   - No weakness for today :smile:
+
+
+| Rule | Status | Rule | Status |
+|:----------|:--------:|:---------|:--------:| 
+| Update Log & Twitter | :white_check_mark: | NOT eat junk food | :white_check_mark: |
+| Sleep 6 hs | :white_check_mark: | NOT weight myself | :white_check_mark: | 
+| Meditate 15 min | :white_check_mark: | NOT drink sugary drinks | :white_check_mark: | 
+| Work out  |  :white_check_mark: | NOT smoke | :white_check_mark: |
+| Buy/Cook healthy food  | :white_check_mark: | NOT drink alcoholic drinks | :white_check_mark: | 
 
 ### Day 6: January 05, 2020
 
