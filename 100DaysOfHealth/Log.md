@@ -4,6 +4,7 @@
 
 > - Last night I slept 6 hs (01:00 am - 07:45 am)
 > - Strengths:
+>   - CalisteniaApp: Kenia Tren Superior
 >   - 4 days in a row that I don't drink alcohol
 >   - 3 days in a row that I don't smoke
 >   - 3 days in a row that I don't drink sugary drinks
@@ -14,7 +15,7 @@
 | Rule | Status | Rule | Status |
 |:----------|:--------:|:---------|:--------:| 
 | Update Log & Twitter | :white_check_mark: | NOT eat junk food | :white_check_mark: |
-| Sleep 6 hs | :white_check_mark: | NOT weight myself | :white_check_mark: | 
+| Sleep 6 hs | :white_check_mark: | NOT weight myself | :white_check_mark: |
 | Meditate 15 min | :red_circle: | NOT drink sugary drinks | :white_check_mark: | 
 | Work out  |  :white_check_mark: | NOT smoke | :white_check_mark: |
 | Buy/Cook healthy food  | :white_check_mark: | NOT drink alcoholic drinks | :white_check_mark: | 
