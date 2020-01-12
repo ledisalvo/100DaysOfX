@@ -1,5 +1,66 @@
 # #100DaysOfHealt - Log :pencil:
 
+### Day 12: January 11, 2020
+
+> - Last night I slept 6 hs
+> - Strengths:
+>   - 9 days in a row that I buy/cook healthy food
+> - Weakness:
+>   - 3 days in a row that I dont't update this log and Twitter
+>   - 3 days in a row that I smoke
+>   - 3 days in a row that I don't do workout
+>   - 3 days in a row that I drink sugary drinks
+>   - 5 days in a row that I don't meditate
+
+
+| Rule | Status | Rule | Status |
+|:----------|:--------:|:---------|:--------:| 
+| Update Log & Twitter | :red_circle: | NOT eat junk food | :white_check_mark: |
+| Sleep 6 hs | :white_check_mark: | NOT weight myself | :white_check_mark: |
+| Meditate 15 min | :red_circle: | NOT drink sugary drinks | :red_circle: | 
+| Work out  |  :red_circle: | NOT smoke | :red_circle: |
+| Buy/Cook healthy food  | :white_check_mark: | NOT drink alcoholic drinks | :red_circle: |
+
+### Day 11: January 10, 2020
+
+> - Last night I slept 6 hs
+> - Strengths:
+>   - 6 days in a row that I don't drink alcohol
+> - Weakness:
+>   - 2 days in a row that I dont't update this log and Twitter
+>   - 2 days in a row that I smoke
+>   - 2 days in a row that I don't do workout
+>   - 2 days in a row that I drink sugary drinks
+>   - 4 days in a row that I don't meditate
+
+
+| Rule | Status | Rule | Status |
+|:----------|:--------:|:---------|:--------:| 
+| Update Log & Twitter | :red_circle: | NOT eat junk food | :red_circle: |
+| Sleep 6 hs | :white_check_mark: | NOT weight myself | :white_check_mark: |
+| Meditate 15 min | :red_circle: | NOT drink sugary drinks | :red_circle: | 
+| Work out  |  :red_circle: | NOT smoke | :red_circle: |
+| Buy/Cook healthy food  | :white_check_mark: | NOT drink alcoholic drinks | :white_check_mark: |
+
+### Day 10: January 09, 2020
+
+> - Last night I slept 6 hs
+> - Strengths:
+>   - 5 days in a row that I don't drink alcohol
+> - Weakness:
+>   - I smoked
+>   - I drunk sugary drinks
+>   - 3 days in a row that I don't meditate
+
+
+| Rule | Status | Rule | Status |
+|:----------|:--------:|:---------|:--------:| 
+| Update Log & Twitter | :red_circle: | NOT eat junk food | :white_check_mark: |
+| Sleep 6 hs | :white_check_mark: | NOT weight myself | :white_check_mark: |
+| Meditate 15 min | :red_circle: | NOT drink sugary drinks | :red_circle: | 
+| Work out  |  :red_circle: | NOT smoke | :red_circle: |
+| Buy/Cook healthy food  | :white_check_mark: | NOT drink alcoholic drinks | :white_check_mark: | 
+
 ### Day 9: January 08, 2020
 
 > - Last night I slept 6 hs (01:00 am - 07:45 am)
