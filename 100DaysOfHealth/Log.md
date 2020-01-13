@@ -1,5 +1,24 @@
 # #100DaysOfHealt - Log :pencil:
 
+### Day 13: January 12, 2020
+
+> - Last night I slept 6 hs
+> - Strengths:
+>   - 10 days in a row that I buy/cook healthy food
+> - Weakness:
+>   - 4 days in a row that I smoke
+>   - 4 days in a row that I drink sugary drinks
+>   - 6 days in a row that I don't meditate
+
+
+| Rule | Status | Rule | Status |
+|:----------|:--------:|:---------|:--------:| 
+| Update Log & Twitter | :white_check_mark: | NOT eat junk food | :white_check_mark: |
+| Sleep 6 hs | :white_check_mark: | NOT weight myself | :white_check_mark: |
+| Meditate 15 min | :red_circle: | NOT drink sugary drinks | :red_circle: | 
+| Work out  | :white_check_mark: | NOT smoke | :red_circle: |
+| Buy/Cook healthy food  | :white_check_mark: | NOT drink alcoholic drinks | :red_circle: |
+
 ### Day 12: January 11, 2020
 
 > - Last night I slept 6 hs
