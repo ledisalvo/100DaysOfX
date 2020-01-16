@@ -11,11 +11,11 @@
 
 | Rule | Status | Rule | Status |
 |:----------|:--------:|:---------|:--------:| 
-| Update Log & Twitter | :red_circle: | NOT eat junk food | :white_check_mark: |
+| Update Log & Twitter | :white_check_mark: | NOT eat junk food | :red_circle: |
 | Sleep 6 hs | :white_check_mark: | NOT weight myself | :white_check_mark: |
-| Meditate 15 min | :white_check_mark: | NOT drink sugary drinks | :white_check_mark: | 
-| Work out  | :white_check_mark: | NOT smoke | :white_check_mark: |
-| Buy/Cook healthy food  | :white_check_mark: | NOT drink alcoholic drinks | :white_check_mark: |
+| Meditate 15 min | :red_circle: | NOT drink sugary drinks | :red_circle: | 
+| Work out  | :red_circle: | NOT smoke | :red_circle: |
+| Buy/Cook healthy food  | :red_circle: | NOT drink alcoholic drinks | :white_check_mark: |
 
 ### Day 15: January 14, 2020
 
@@ -26,7 +26,6 @@
 >   - 2 days in a row that I didn't drink alcohol
 > - Weakness:
 >   - 2 days in a row that I didn't update log and twitter
-
 
 | Rule | Status | Rule | Status |
 |:----------|:--------:|:---------|:--------:| 
@@ -71,7 +70,7 @@
 | Update Log & Twitter | :white_check_mark: | NOT eat junk food | :white_check_mark: |
 | Sleep 6 hs | :white_check_mark: | NOT weight myself | :white_check_mark: |
 | Meditate 15 min | :red_circle: | NOT drink sugary drinks | :red_circle: | 
-| Work out  | :white_check_mark: | NOT smoke | :red_circle: |
+| Work out  | :red_circle: | NOT smoke | :red_circle: |
 | Buy/Cook healthy food  | :white_check_mark: | NOT drink alcoholic drinks | :red_circle: |
 
 ### Day 12: January 11, 2020
