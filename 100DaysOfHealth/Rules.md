@@ -1,4 +1,4 @@
-# 100DaysOfHealt - R1 :heart:
+# 100DaysOfHealth - R1 :heart:
 
 The goal of this challenge is to feel good, to enjoy life and be active - not to lose a certain amount of weight, a certain number of kilos. That’s why it’s called #100DaysOfHealth, not of #100DaysOfDiet (which I do not support) or something similar.
 

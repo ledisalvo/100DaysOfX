@@ -1,11 +1,66 @@
-# #100DaysOfHealt - Log :pencil:
+# #100DaysOfHealth - Log :pencil:
+
+### Day 16: January 15, 2020
+
+> - Last night I slept 6 hs
+> - Strengths:
+>   - 3 days in a row that I didn't drink alcohol
+> - Weakness: :girl:
+>   - I smoked
+>   - I drunk sugary drinks
+
+| Rule | Status | Rule | Status |
+|:----------|:--------:|:---------|:--------:| 
+| Update Log & Twitter | :red_circle: | NOT eat junk food | :white_check_mark: |
+| Sleep 6 hs | :white_check_mark: | NOT weight myself | :white_check_mark: |
+| Meditate 15 min | :white_check_mark: | NOT drink sugary drinks | :white_check_mark: | 
+| Work out  | :white_check_mark: | NOT smoke | :white_check_mark: |
+| Buy/Cook healthy food  | :white_check_mark: | NOT drink alcoholic drinks | :white_check_mark: |
+
+### Day 15: January 14, 2020
+
+> - Last night I slept 6 hs
+> - Strengths:
+>   - 2 days in a row that I didn't smoke
+>   - 2 days in a row that I didn't drink sugary drinks
+>   - 2 days in a row that I didn't drink alcohol
+> - Weakness:
+>   - 2 days in a row that I didn't update log and twitter
+
+
+| Rule | Status | Rule | Status |
+|:----------|:--------:|:---------|:--------:| 
+| Update Log & Twitter | :red_circle: | NOT eat junk food | :white_check_mark: |
+| Sleep 6 hs | :white_check_mark: | NOT weight myself | :white_check_mark: |
+| Meditate 15 min | :white_check_mark: | NOT drink sugary drinks | :white_check_mark: | 
+| Work out  | :white_check_mark: | NOT smoke | :white_check_mark: |
+| Buy/Cook healthy food  | :white_check_mark: | NOT drink alcoholic drinks | :white_check_mark: |
+
+### Day 14: January 13, 2020
+
+> - Last night I slept 6 hs
+> - Strengths:
+>   - I didn't smoke
+>   - I didn't drink sugary drinks
+>   - I meditated in Aeroyoga
+> - Weakness:
+>   - I didn't update log and twitter
+
+
+| Rule | Status | Rule | Status |
+|:----------|:--------:|:---------|:--------:| 
+| Update Log & Twitter | :red_circle: | NOT eat junk food | :white_check_mark: |
+| Sleep 6 hs | :white_check_mark: | NOT weight myself | :white_check_mark: |
+| Meditate 15 min | :white_check_mark: | NOT drink sugary drinks | :white_check_mark: | 
+| Work out  | :white_check_mark: | NOT smoke | :white_check_mark: |
+| Buy/Cook healthy food  | :white_check_mark: | NOT drink alcoholic drinks | :white_check_mark: |
 
 ### Day 13: January 12, 2020
 
 > - Last night I slept 6 hs
 > - Strengths:
 >   - 10 days in a row that I buy/cook healthy food
-> - Weakness:
+> - Weakness: :girl:
 >   - 4 days in a row that I smoke
 >   - 4 days in a row that I drink sugary drinks
 >   - 6 days in a row that I don't meditate
@@ -24,7 +79,7 @@
 > - Last night I slept 6 hs
 > - Strengths:
 >   - 9 days in a row that I buy/cook healthy food
-> - Weakness:
+> - Weakness: :girl:
 >   - 3 days in a row that I dont't update this log and Twitter
 >   - 3 days in a row that I smoke
 >   - 3 days in a row that I don't do workout
@@ -45,7 +100,7 @@
 > - Last night I slept 6 hs
 > - Strengths:
 >   - 6 days in a row that I don't drink alcohol
-> - Weakness:
+> - Weakness: :girl:
 >   - 2 days in a row that I dont't update this log and Twitter
 >   - 2 days in a row that I smoke
 >   - 2 days in a row that I don't do workout
