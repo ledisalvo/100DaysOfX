@@ -9,19 +9,19 @@ The goal of this challenge is to feel good, to enjoy life and be active - not to
 # Rules
 For the next 100 Days:
 
-1. I will keep a daily log and I will post in Twitter the summary of the day, every day  :pencil2:
+1. I will keep a daily log with the summary of the day, every day  :pencil2:
 
 2. Sleep at least 6 hours  :zzz:
 
 3. Meditate at least 15 minutes for a day  :om:
 
-4. I will work out 6 times a week. Monday to Saturday. Sunday will be for rest  :muscle:
+4. I will work out at least 4 times a week.  :muscle:
 
 5. I will make an effort to cook at home as much as I can :fork_and_knife:. If not, I will buy healthy food  :apple:
 
-6. I will NOT eat any junk food :fries: (e.g. chips, ice-cream, cookies, candies, any food with sugar, etc.)
+6. I will NOT eat any junk food :fries: (e.g. Any food with sugar, fries, etc.)
 
-7. I will NOT weigh myself during the challenge.
+7. Drink at least 2 Lts of water :potable_water:
 
 8. I will NOT drink sugary drinks  :candy: as they are often a hidden source of an enormous amount of sugar we get daily – which means: soda (pop), juices, sweet coffee/tea drinks.
 
