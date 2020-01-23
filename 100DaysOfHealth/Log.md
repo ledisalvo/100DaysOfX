@@ -1,8 +1,44 @@
 # #100DaysOfHealth - Log :pencil:
 
+### Day 19: January 22, 2020
+
+> - Strengths:
+>   - 6 days in a row that I didn't drink alcohol
+>   - Workout Calistenia App:
+>     - Reto de piernas Inferno Principiantes
+>     - Run 1.75 Km
+> - Weakness: 
+>   - I slept less than 6 hs
+
+| Rule | Status | Rule | Status |
+|:----------|:--------:|:---------|:--------:| 
+| Update Log | :white_check_mark: | NOT eat junk food | :red_circle: |
+| Sleep 6 hs | :white_check_mark: | Drink 2Lts of water | :white_check_mark: |
+| Meditate 15 min | :white_check_mark: | NOT drink sugary drinks | :white_check_mark: | 
+| Work out  | :white_check_mark: | NOT smoke | :white_check_mark: |
+| Cook my own food  | :white_check_mark: | NOT drink alcoholic drinks | :white_check_mark: |
+
+### Day 18: January 21, 2020
+
+> - Strengths:
+>   - 5 days in a row that I didn't drink alcohol
+>   - Workout Calistenia:
+>     - 10 Chin ups
+>     - 25-30 push ups
+>     - 60 Squats
+> - Weakness:
+>   - I didn't meditate and I didn't cook in home
+
+| Rule | Status | Rule | Status |
+|:----------|:--------:|:---------|:--------:| 
+| Update Log | :red_circle: | NOT eat junk food | :white_check_mark: |
+| Sleep 6 hs | :white_check_mark: | Drink 2Lts of water | :white_check_mark: |
+| Meditate 15 min | :red_circle: | NOT drink sugary drinks | :white_check_mark: | 
+| Work out  | :white_check_mark: | NOT smoke | :white_check_mark: |
+| Cook my own food  | :red_circle: | NOT drink alcoholic drinks | :white_check_mark: |
+
 ### Day 17: January 20, 2020
 
-> - 
 > - Strengths:
 >   - 4 days in a row that I didn't drink alcohol
 >   - I meditated in Aeroyoga
